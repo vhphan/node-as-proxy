@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26ddd62b-79a9-420e-a1d4-02288f91c36c" name="jupyter-proxy">
+        <fileTransfer rootFolder="/home2/eproject/node-jupyter-proxy" accessType="SFTP" host="eprojecttrackers.com" port="55000" sshConfigId="b0b1fec6-d812-4e8f-90fc-1b973640bdb3" sshConfig="eproject jupyter" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</project>
